@@ -1,2 +1,1 @@
-# askl88.github.io
-Portfolio
+This portfolio showcases my works, projects, and personal links. 
